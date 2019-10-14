@@ -1,5 +1,5 @@
 # hacktoberfest-welcome-rn
-React Native welcome page for Hacktoberfest 2019
+React Native Welcome Page for Hacktoberfest 2019
 
 Anyone can contribute to this repo to make their contribution to open-source on Github
 
@@ -16,3 +16,5 @@ To get a T-shirt, you must make five pull requests between October 1–31 in any
 You can check your progress of HacktoberFest at this link
 
 Pull requests marked as spam will not be entitled for a T-shirt.
+
+Copyright © 2019
