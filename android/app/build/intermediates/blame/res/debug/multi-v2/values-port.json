@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/sigit/Documents/workspace-rn/welcomeRN/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+            "outputFile": "E:\\Bilal\\Open Source\\hacktoberfest-welcome-rn\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
             "map": [
                 {
-                    "source": "/Users/sigit/.gradle/caches/transforms-2/files-2.1/566cdbc34db313ee2c67a8d3f832aab6/res/values-port/values-port.xml",
+                    "source": "C:\\Users\\WAQAS MEHMOOD\\.gradle\\caches\\transforms-2\\files-2.1\\bd12ff78e78a65e3b3cb3d56e0f2b888\\res\\values-port\\values-port.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
