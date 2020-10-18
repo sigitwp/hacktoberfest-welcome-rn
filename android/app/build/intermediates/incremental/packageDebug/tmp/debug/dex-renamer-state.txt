@@ -1,4 +1,4 @@
-#Thu Oct 10 16:32:49 WIB 2019
-base.0=/Users/sigit/Documents/workspace-rn/welcomeRN/android/app/build/intermediates/transforms/dexMerger/debug/0
+#Sun Oct 18 19:41:24 IST 2020
+base.0=E\:\\Bilal\\Open Source\\hacktoberfest-welcome-rn\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex
